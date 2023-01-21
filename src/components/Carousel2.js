@@ -53,7 +53,7 @@ function Carousel2() {
       <img src={iback} alt="we" className="imgBackGround"></img>
       <Card bg="primary">
         <Carousel interval={900} fade>
-          <Carousel.Item interval={1800} className="testec">
+          <Carousel.Item interval={1200} className="testec">
             <img src={inicio} alt="Second slide" />
 
             <Carousel.Caption>
@@ -102,7 +102,7 @@ function Carousel2() {
               <p>Vários momentos</p>
             </Carousel.Caption>
           </Carousel.Item>
-          <Carousel.Item interval={1200}>
+          <Carousel.Item>
             <img className="d-block w-100" src={i6} alt="Second slide" />
 
             <Carousel.Caption>

@@ -1,6 +1,6 @@
 import "bootstrap/dist/css/bootstrap.min.css";
 import minhaImagem from "./assets/t.jpg";
-import music from "./assets/calm.mp3";
+import music from "./assets/maron.mp3";
 import { Link } from "react-router-dom";
 import "./App.css";
 
