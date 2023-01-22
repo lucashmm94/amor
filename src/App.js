@@ -28,9 +28,7 @@ function App() {
         </button>
       </div>
       <img src={minhaImagem} alt="we" className="imgBackGround"></img>
-      <audio autoPlay loop controls id="audio">
-        <source src={music} />
-      </audio>
+      
     </div>
   );
 }
