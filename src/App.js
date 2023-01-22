@@ -6,7 +6,7 @@ import "./App.css";
 
 function App() {
   const getPositionRandom = () => {
-    return Math.round(Math.random() * 800) + "px";
+    return Math.round(Math.random() * 200) + "px";
   };
 
   const handleMouseHouver = () => {
